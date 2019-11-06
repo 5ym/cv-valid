@@ -2,92 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="234371e5-73f9-483e-98e1-b36326079c8b" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/node.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/action-c333b5b7e37a.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/count.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13544312_5136006_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13562866_5136020_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13566486_5136218_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13582111_5136133_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13588362_5136259_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13589520_5136241_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13591417_5136065_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13591993_5136219_2.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13592082_5136116_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13593198_5136125_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13593687_5136086_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13596740_5136009_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13597205_5136188_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13597567_5136106_2.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13597567_5136106_3.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13597908_5136051_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13597929_5136055_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13599015_5136255_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13599420_5136245_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13599824_5136189_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13600650_5136024_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13600650_5136024_2.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13601044_5136169_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13602278_5136265_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13604349_5136170_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13604379_5136198_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13604435_5136232_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13604488_5136183_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13604947_5136104_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13607591_5136031_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13608601_5136112_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13608894_5136200_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13608963_5136191_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13609350_5136233_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13609853_5136267_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13610492_5136254_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13611221_5136064_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13611234_5136098_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13611254_5136175_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13611284_5136033_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13611594_5136163_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13611766_5136208_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13611794_5136083_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13611801_5136084_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13612058_5136222_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13612211_5136239_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13612691_5136129_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13612788_5136131_2.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13612926_5136258_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13613298_5136114_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13613375_5136105_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13613385_5136252_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13613974_5136256_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13614014_5136109_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13614028_5136037_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13614163_5136066_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13614841_5136167_3.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13614841_5136167_4.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13614841_5136167_5.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13615667_5136068_3.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13615820_5136093_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13616293_5136050_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13616396_5136078_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13616842_5136251_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13616955_5136063_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13617149_5136072_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13617292_5136034_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13617590_5136206_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13617862_5136044_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13618977_5136147_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13619015_5136158_1.png.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/13619066_5136221_1.png.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +32,6 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -147,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573004384019</updated>
-      <workItem from="1573004385403" duration="11754000" />
+      <workItem from="1573004385403" duration="12059000" />
+      <workItem from="1573019511826" duration="626000" />
     </task>
     <servers />
   </component>
@@ -159,7 +81,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
