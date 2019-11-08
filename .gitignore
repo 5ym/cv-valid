@@ -70,3 +70,8 @@ fabric.properties
 node_modules
 npm-debug.log
 action-*.json
+
+/recipt
+/maskrecipt
+/result
+/maskresult
